@@ -1,3 +1,12 @@
+dde-shell (6.8.0) unstable; urgency=medium
+
+  * feat(dock): migrate to treeland foreign toplevel manager v3
+  * feat: add dock spotlight cursor tracking
+  * fix(ci): pass App secrets to release workflow
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:44 +0800
+
 dde-shell (2.0.61) unstable; urgency=medium
 
   * feat: expose localized Keywords in the app model
